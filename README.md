@@ -1,6 +1,6 @@
-| 这个作业属于哪个课程 | <https://edu.cnblogs.com/campus/gdgy/SoftwareEngineering2024> |
+| 这个作业属于哪个课程 | <[https://edu.cnblogs.com/campus/gdgy/SoftwareEngineering2024](https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience)> |
 | ----------------- | ---------------- |
-| 这个作业要求在哪里 | <https://edu.cnblogs.com/campus/gdgy/SoftwareEngineering2024/homework/13136> |
+| 这个作业要求在哪里 | <[https://edu.cnblogs.com/campus/gdgy/SoftwareEngineering2024/homework/13136](https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13478)> |
 | 这个作业的目标 | <学习Markdown排版、GitHub简单使用>   |
 
 # 自我介绍
